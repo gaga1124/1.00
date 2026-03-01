@@ -1,0 +1,14 @@
+Django
+djangorestframework
+django-cors-headers
+djangorestframework-simplejwt
+PyJWT
+cryptography
+Pillow
+python-magic
+python-dateutil
+pytz
+django-filter
+drf-yasg
+django-debug-toolbar
+openpyxl
